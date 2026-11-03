@@ -1,0 +1,6 @@
+pytest
+coverage
+mutmut
+typer
+python-dotenv
+# add your LLM provider SDK here (e.g. openai / anthropic)
